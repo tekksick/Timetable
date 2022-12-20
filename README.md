@@ -1,4 +1,4 @@
 # Timetable
-## CSE+CE+MEMS
+## For CSE+CE+MEMS
 ## Freshers
 ## IITI 
